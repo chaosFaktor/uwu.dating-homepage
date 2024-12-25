@@ -1,0 +1,50 @@
+
+
+body {
+    margin: 0;
+    background-color: var(--app-bg-color);
+}
+
+.main-content {
+    font-weight: 100;
+    width: 65vw;
+    margin-inline: auto;
+    margin-bottom: 80vh;
+}
+
+.main-content h2 {
+    font-size: 30px;
+    margin-top: 60px;
+}
+
+.main-content p {
+    font-size: 20px;
+}
+.main-content b {
+    font-weight: bold;
+}
+.main-content hr {
+    margin: 38px;
+    margin-inline:0;
+    color: grey;
+}
+
+.main-content li {
+    font-size: 18px;
+}
+.main-content a {
+    transition: 100ms;
+}
+.main-content a:hover {
+    color:grey;
+    transition: 100ms;
+}
+.main-content div table {
+    width: 100%;
+}
+.main-content div table th {
+    font-size: 30px;
+}
+.main-content div table td {
+    font-size: 17px;
+}
