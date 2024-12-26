@@ -1,0 +1,2 @@
+## So what's this UwU tours about?
+UwU tours is an **inofficial** and **work in progress** on convention meeting platform, tailored to the chaos community. It's one and only purpose is to give people an easy and accessible way to meet new people.

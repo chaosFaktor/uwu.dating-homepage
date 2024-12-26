@@ -7,7 +7,7 @@
 
     <div class="app_bar">
         <div class="app_title_container">
-            <h1>UwU dating</h1>
+            <h1>UwU Tours</h1>
         </div>
     </div>
 @endsection('app_bar')
